@@ -100,4 +100,4 @@ Thanks to the creators of the [BSDS500dataset](https://figshare.com/articles/dat
 陈, 军宇 (2020). BSR_bsds500  data set. figshare. Dataset. https://doi.org/10.6084/m9.figshare.13139684.v1
 
 ### Traditional Edge Detectors:
-Canny and Sobel are the edge detectors that are used.# edge-detection-project
+Canny and Sobel are the edge detectors that are used.
